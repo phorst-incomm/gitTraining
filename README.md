@@ -1,1 +1,2 @@
-## GIT TRAINING TEST
+# gitTraining
+Git Training 2018
